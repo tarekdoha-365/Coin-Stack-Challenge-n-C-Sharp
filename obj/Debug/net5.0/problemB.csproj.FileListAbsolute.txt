@@ -1,0 +1,32 @@
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.csproj.AssemblyReference.cache
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.AssemblyInfoInputs.cache
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.AssemblyInfo.cs
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.csproj.CoreCompileInputs.cache
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.exe
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.deps.json
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.runtimeconfig.json
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.runtimeconfig.dev.json
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.dll
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\ref\problemB.dll
+C:\repos\Additude AB\problemB\problemB\bin\Debug\net5.0\problemB.pdb
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.dll
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\ref\problemB.dll
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.pdb
+C:\repos\Additude AB\problemB\problemB\obj\Debug\net5.0\problemB.genruntimeconfig.cache
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.exe
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.deps.json
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.runtimeconfig.json
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.runtimeconfig.dev.json
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.dll
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\ref\problemB.dll
+C:\repos\CoinStacksTask\problemB\problemB\bin\Debug\net5.0\problemB.pdb
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.csproj.AssemblyReference.cache
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.AssemblyInfoInputs.cache
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.AssemblyInfo.cs
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.csproj.CoreCompileInputs.cache
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.dll
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\ref\problemB.dll
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.pdb
+C:\repos\CoinStacksTask\problemB\problemB\obj\Debug\net5.0\problemB.genruntimeconfig.cache
